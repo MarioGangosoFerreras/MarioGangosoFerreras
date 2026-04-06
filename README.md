@@ -3,9 +3,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangoso44@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-gangoso-11885a364/)
 
-🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
-💻 Apasionado por el desarrollo de software, especialmente aplicaciones móviles y web
-🚀 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades
+-🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+-💻 Apasionado por el desarrollo de software, especialmente aplicaciones móviles y web
+-🚀 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades
 
 📍 Valladolid, España
 
